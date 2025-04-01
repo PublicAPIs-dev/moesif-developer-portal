@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@aws-sdk/client-api-gateway": "^3.370.0",
+    "@aws-sdk/client-api-gateway": "^3.758.0",
     "@aws-sdk/client-apigatewayv2": "^3.370.0",
     "@okta/okta-auth-js": "^7.8.1",
     "@okta/okta-sdk-nodejs": "^7.1.1",
